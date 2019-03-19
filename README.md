@@ -2,6 +2,7 @@
 bootstrap snippets login
 You can view the result of this snippet here: https://www.bootdey.com/snippets/view/login-box
 
+`
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -243,3 +244,4 @@ You can view the result of this snippet here: https://www.bootdey.com/snippets/v
 </body>
 
 </html>
+`
